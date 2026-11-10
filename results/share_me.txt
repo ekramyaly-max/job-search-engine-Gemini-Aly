@@ -1,98 +1,98 @@
 RUN SUMMARY 2026-11-10
 
 SITES
-linkedin: 445 jobs from 26/28 searches (used)
-indeed: 248 jobs from 27/28 searches (used)
+linkedin: 795 jobs from 42/50 searches (used)
+indeed: 597 jobs from 40/50 searches (used)
 bayt: 0 jobs from 0/4 searches (skipped)
 google: 0 jobs from 0/4 searches (skipped)
 glassdoor: 0 jobs from 0/4 searches (skipped)
 zip_recruiter: 0 jobs from 0/4 searches (skipped)
 
 FILTERS
-Total after removing duplicates: 426
-Dropped for missing role keyword: 146
-Dropped for seniority: 23
-Dropped for employment type: 16
-Dropped for exclude words: 21
-Rescued to MAYBE (exclude word but tech title): 2
-Dropped, score 0 (no evidence): 57
-Moved to MAYBE list (score 1-2): 91
-Strong matches before merging repeats: 72
-Merged repeated jobs: 3
-Final strong matches: 69
-Final maybe list: 90
-  Priority companies: 4
-  Industry verified: 60
-  Score 5 or more: 31
+Total after removing duplicates: 1025
+Dropped for missing role keyword: 170
+Dropped for seniority: 37
+Dropped for employment type: 34
+Dropped for exclude words: 82
+Rescued to MAYBE (exclude word but tech title): 4
+Dropped, score 0 (no evidence): 207
+Moved to MAYBE list (score 1-2): 251
+Strong matches before merging repeats: 244
+Merged repeated jobs: 20
+Final strong matches: 224
+Final maybe list: 241
+  Priority companies: 24
+  Industry verified: 208
+  Score 5 or more: 119
 
-REGIONS (strong matches): Canada 33, UAE 24, KSA 7, Qatar 5
-SCORES: 9:1, 8:1, 7:6, 6:16, 5:7, 4:22, 3:16
+REGIONS (strong matches): USA 99, Canada 48, UAE 42, KSA 24, Other 6, Qatar 5
+SCORES: 9:11, 8:3, 7:19, 6:55, 5:31, 4:58, 3:47
 
-TOP 15 (score | title | company | location)
-9 | Senior Cloud Infra and IP Engineer | Ericsson | Riyadh, Riyadh, Saudi Arabia
-8 | Gestionnaire principal de la stratégie, Réseau … | Bell | Toronto, Ontario, Canada
-7 | IT Manager (Operations & Infrastructure) | The Greater Change | Dubai, Dubai, United Arab E…
-7 | Manager – Service Delivery (Data Centre, Infras… | Abu Dhabi Commercial Bank | Dubai, United Arab Emirates
-7 | Senior Advisor, Data Center Cabling Project Man… | Dell Technologies | Riyadh Region
-7 | Senior Project Manager – Telecommunications & I… | Jaggard Group | Dubai, DU, United Arab Emir…
-7 | Executive Director - ICT Operations (Technology… | Qiddiya | القدية | Riyadh, Riyadh, Saudi Arabia
-7 | Group IT Manager – Infrastructure & Technology … | Talent Higher | Dubai, United Arab Emirates
-6 | Data Center Facility Manager-Dubai | Alibaba Cloud | Dubai, Dubai, United Arab E…
-6 | Senior Engineer - Cloud & Systems | MEEZA QSTP | Doha, Qatar
-6 | Incident & Problem Manager, Cloud Operations | Sectra | Mississauga, Ontario, Canada
-6 | Data Center Technicians Manager | Microsoft | Dubai, Dubai, United Arab E…
-6 | Data Center Inventory & Asset Technician Manager | Microsoft | Dubai, DU, United Arab Emir…
-6 | Principal Data Center Facilities Development Ma… | Oracle | Dubai, Dubai, United Arab E…
-6 | Senior Manager - Access Network Operations | RBC | Toronto, Ontario, Canada
+TOP 15 (score | title | workplace | company | location)
+9 | Data Center IT Operations Manager | Onsite | Microsoft | Cartersville, GA, U…
+9 | Gestionnaire principal de la stratégie,… | Onsite | Bell | Toronto, Ontario, C…
+9 | Senior Cloud Infra and IP Engineer | Onsite | Ericsson | Riyadh, Riyadh, Sau…
+9 | Senior Director, Delivery (Telecom) | Remote | TELUS Digital | Charlottesville, VA…
+9 | Manager, Customer Operations | Hybrid | Bell | Ottawa, ON, Canada
+9 | Data Center Technicians Manager | Onsite | Microsoft | Dubai, Dubai, Unite…
+9 | Data Center Inventory & Asset Technicia… | Onsite | Microsoft | Dubai, DU, United A…
+9 | Infrastructure Technical Program Manage… | Onsite | Amazon Web Services… | Austin, TX, USA
+9 | Principal Network Project/Program Manag… | Onsite | AT&T | Atlanta, GA, USA
+9 | Technical Infrastructure Program Manage… | Onsite | Amazon Web Services… | Seattle, WA, USA
+9 | Service Delivery Manager (Core) | Onsite | Ericsson | Plano, TX, USA
+8 | Directeur(trice) de programme, Réseau d… | Onsite | Bell | Regina, Saskatchewa…
+8 | Gestionnaire de Portefeuille, Déploieme… | Onsite | Rogers Communicatio… | Montreal, Quebec, C…
+8 | Data Center Campus Director | Onsite | Microsoft | Abu Dhabi, Abu Dhab…
+7 | Segment Program Manager, Mission Critic… | Onsite | Nokia | Kanata, Ontario, Ca…
 
 LOWEST 8 STRONG MATCHES
-3 | TMT Program Manager | HDR | Verified
-3 | Security & Technology Services Manager | New Age Group | Verified
-3 | Engagement Delivery Manager | Randstad Digital | Verified
-3 | Senior Manager, Data Strategy and Operations | Scotiabank | Verified
-3 | Project Manager (12 Months Contract) | TMX GROUP | Verified
-3 | Program Manager | Extreme Networks | Verified
-3 | Manager,  DevOps | Michael Page | Verified
-3 | Project Manager | HRbrain Inc. | Verified
+3 | Senior Project Manager | Hybrid | Ledcor | Verified
+3 | Partnership Program Manager | Remote | Antler | Verified
+3 | Business Application Manager-NSP | Onsite | savola | Verified
+3 | Senior Project Manager (m/f/d) | Onsite | Halian | Managed Se… | Verified
+3 | Program Manager | Remote | Nava | Verified
+3 | Onshore Program Manager | Onsite | Capgemini | Verified
+3 | Program Manager - Electric Utilities | Hybrid | ENTRUST Solutions G… | Verified
+3 | Senior Director, Digital Products | Remote | Network Innovations… | Verified
 
-TOP 10 MAYBE (score | title | company | why)
-6 | Customer Support Manager | Motorola Solutions | score 2 below 3
-5 | Senior Manager, Bell AI Fabric Strategy | Bell | score 2 below 3
-5 | Manager, Partnerships & Innovation | Rogers Communications | score 2 below 3
-5 | Manager Statflo Strategy | Rogers Communications | score 2 below 3
-5 | Senior Manager of OSP Construction | Insight Global | exclude word 'construction' but title has a tech word
-4 | Project Manager - Civil & Electrical Constructi… | Verdi Alliance Group of C… | exclude word 'construction' but title has a tech word
-3 | Senior Technical Account Manager, Microsegmenta… | Akamai Technologies | score 2 below 3
-3 | SENIOR BIM MANAGER | EDMAC ENGINEERING CONSULT… | score 2 below 3
-3 | Restaurant Manager | Mandoos Hospitality LLC | score 2 below 3
-3 | Principal Programme Manager  Professional Servi… | Adobe | score 2 below 3
+TOP 10 MAYBE (score | title | workplace | company | why)
+10 | Senior Sales Ops Manager - Scale, AWS S… | Onsite | Amazon Web Services | exclude word 'sales' but title has a tech word
+6 | Sr Manager Value Management | Onsite | Rogers Communicatio… | score 2 below 3
+6 | Customer Support Manager | Onsite | Motorola Solutions | score 2 below 3
+6 | Leader, Systems Engineering | Onsite | Cisco | score 2 below 3
+6 | Core Technical Lead | Onsite | Ericsson | score 2 below 3
+5 | Solution Integration & Implementation M… | Onsite | Amdocs | score 2 below 3
+4 | Director, Retail Customer Operations | Onsite | Kinder's Premium Qu… | exclude word 'retail' but title has a tech word
+4 | Customer Service Manager, Airport Custo… | Onsite | American Airlines | exclude word 'customer service' but title has a tech word
+4 | Sales Customer Operations Manager | Onsite | Coca-Cola Consolida… | exclude word 'sales' but title has a tech word
+3 | Senior Account Manager | Remote | Obrela | score 2 below 3
 
 DROPPED SAMPLES (to check nothing good is lost)
-- missing role: 146 total; examples:
-    Technical Lead | Qatar Airways | missing role keyword
-    Electrical Engineer/Telecommunications | HanmiGlobal MENA | missing role keyword
-    Core Technical Lead | Ericsson | missing role keyword
-    Planning Engineer-Road and Infrastructure | LINKS OUTSOURCE L.L.C-FZ | missing role keyword
-    Senior Information Security (Application Security) | TD | missing role keyword
-    Azure Platform & Integration Specialist | KPMG | missing role keyword
-- seniority: 23 total; examples:
-    Project Controls Coordinator | TTC (Toronto Transit Co… | no seniority word in ti…
-    OPERATIONS SUPERVISOR (TRANS & DIST) | QatarEnergy | no seniority word in ti…
-    Network Engineer - Rugby School Dubai | Aldar Academies | no seniority word in ti…
-    Supervisor - IT Operations | MDA Space | no seniority word in ti…
-    Project Engineering Management, Principal Enginee… | Synopsys Inc | no seniority word in ti…
-    Project Engineer (CCTV & ELV Systems) | Netcom System Solution | no seniority word in ti…
-- exclude word: 21 total; examples:
-    Customer Experience Manager I Real Estate I Asset… | Al-Futtaim | exclude word: real esta…
-    Manager / Senior Manager | Tax & Legal | Legal | … | Deloitte | exclude word: legal
-    Senior Manager, Customer Success and Transformati… | Bell | exclude word: customer …
-    MENAT/SSA Startup Sales Leader, EMEA SUP | Amazon Web Services | exclude word: sales
-    Sales & Marketing Manager (Remote) – Own Visa pre… | Ababeel FZE LLC. | exclude word: sales
-    Senior Logistics, Security and Interface Manager | Jasara Program Manageme… | exclude word: logistics
-- score 0: 57 total; examples:
-    Quality Compliance Manager | SLB | score 0: no role or ind…
-    Director, Employee Relations | Autodesk | score 0: no role or ind…
-    Managers in social, community and correctional se… | Oasis Staffing & Foster… | score 0: no role or ind…
-    Senior Technical Support Account Manager | SAS | score 0: no role or ind…
-    Head of E&M Transformation Programme | Parsons Corporation | score 0: no role or ind…
-    Test & Commissioning Manager (Qatar-based, 6-mont… | Newtone consulting | score 0: no role or ind…
+- missing role: 170 total; examples:
+    SENIOR LIBRARY ASSISTANT (PAGE SUPERVIS… | Onsite | Durham County Gover… | missing role keyword
+    SCRUM Master | Onsite | Island Health | missing role keyword
+    Cook | Onsite | Anthony's Restauran… | missing role keyword
+    City Clerk | Remote | City of Kawartha La… | missing role keyword
+    Rep Ops Transport Tower | Onsite | gate group | missing role keyword
+    Senior PMO Analyst - Venue Technology | Onsite | Intaleq Technology … | missing role keyword
+- seniority: 37 total; examples:
+    Human Resources Advisor | Onsite | Andritz | no seniority word i…
+    Health Emergency Management (HEM) Speci… | Remote | Provincial Health S… | no seniority word i…
+    Hourly Supervisor - ASU-Board Operations | Onsite | Aramark | no seniority word i…
+    Security Projects and Operations Engine… | Onsite | LifeLabs | no seniority word i…
+    Physician Leadership | Onsite | Newfoundland and La… | no seniority word i…
+    Principal Network Developer | Onsite | Oracle | no seniority word i…
+- exclude word: 82 total; examples:
+    Team Lead - Digital Construction | Hybrid | Pomerleau | exclude word: const…
+    WW High Velocity Sales Program Manager,… | Hybrid | Hewlett Packard Ent… | exclude word: sales
+    RESTAURANT MANAGER | Onsite | Hot n cool | exclude word: resta…
+    Retail Operations Manager | Onsite | Sodexo | exclude word: retail
+    Lead - Procurement Systems, Digitalizat… | Onsite | Airswift | exclude word: procu…
+    Area Sales Manager | Onsite | Apparel Group | exclude word: sales
+- score 0: 207 total; examples:
+    Director Technology Support | Hybrid | The Freeman Company… | score 0: no role or…
+    Rosewood Explorers - Team Leader | Onsite | Rosewood Hotel Group | score 0: no role or…
+    Events Lead | Onsite | Snoonu | score 0: no role or…
+    ACCOUNT EXECUTIVE - JV's | Onsite | Wipro | score 0: no role or…
+    Customer Experience Manager | Onsite | Confidential SemiGo… | score 0: no role or…
+    General Manager- Consumer Lines Dubai | Onsite | Braxtone Group | score 0: no role or…
