@@ -1,0 +1,101 @@
+OK     linkedin | network operations manager | Dubai, UAE -> 20 jobs
+OK     indeed | network operations manager | Dubai, UAE -> 20 jobs
+EMPTY  bayt | network operations manager | Dubai, UAE
+EMPTY  google | network operations manager | Dubai, UAE
+EMPTY  glassdoor | network operations manager | Dubai, UAE
+OK     linkedin | NOC manager | Dubai, UAE -> 20 jobs
+OK     indeed | NOC manager | Dubai, UAE -> 5 jobs
+EMPTY  bayt | NOC manager | Dubai, UAE
+EMPTY  google | NOC manager | Dubai, UAE
+EMPTY  glassdoor | NOC manager | Dubai, UAE
+OK     linkedin | service delivery manager telecom | Dubai, UAE -> 20 jobs
+OK     indeed | service delivery manager telecom | Dubai, UAE -> 1 jobs
+EMPTY  bayt | service delivery manager telecom | Dubai, UAE
+EMPTY  google | service delivery manager telecom | Dubai, UAE
+EMPTY  glassdoor | service delivery manager telecom | Dubai, UAE
+OK     linkedin | major incident manager | Dubai, UAE -> 20 jobs
+OK     indeed | major incident manager | Dubai, UAE -> 6 jobs
+EMPTY  bayt | major incident manager | Dubai, UAE
+SKIPPED bayt: no jobs after 4 tries
+EMPTY  google | major incident manager | Dubai, UAE
+SKIPPED google: no jobs after 4 tries
+EMPTY  glassdoor | major incident manager | Dubai, UAE
+SKIPPED glassdoor: no jobs after 4 tries
+OK     linkedin | cloud operations manager | Dubai, UAE -> 20 jobs
+OK     indeed | cloud operations manager | Dubai, UAE -> 20 jobs
+OK     linkedin | IT infrastructure manager | Dubai, UAE -> 20 jobs
+OK     indeed | IT infrastructure manager | Dubai, UAE -> 20 jobs
+OK     linkedin | telecom project manager | Dubai, UAE -> 20 jobs
+OK     indeed | telecom project manager | Dubai, UAE -> 3 jobs
+OK     linkedin | network operations manager | Doha, Qatar -> 10 jobs
+OK     indeed | network operations manager | Doha, Qatar -> 9 jobs
+OK     linkedin | NOC manager | Doha, Qatar -> 5 jobs
+OK     indeed | NOC manager | Doha, Qatar -> 6 jobs
+OK     linkedin | service delivery manager telecom | Doha, Qatar -> 20 jobs
+EMPTY  indeed | service delivery manager telecom | Doha, Qatar
+OK     linkedin | major incident manager | Doha, Qatar -> 8 jobs
+OK     indeed | major incident manager | Doha, Qatar -> 3 jobs
+OK     linkedin | cloud operations manager | Doha, Qatar -> 10 jobs
+OK     indeed | cloud operations manager | Doha, Qatar -> 4 jobs
+OK     linkedin | IT infrastructure manager | Doha, Qatar -> 10 jobs
+OK     indeed | IT infrastructure manager | Doha, Qatar -> 10 jobs
+EMPTY  linkedin | telecom project manager | Doha, Qatar
+OK     indeed | telecom project manager | Doha, Qatar -> 1 jobs
+OK     linkedin | network operations manager | Riyadh, Saudi Arabia -> 20 jobs
+OK     indeed | network operations manager | Riyadh, Saudi Arabia -> 16 jobs
+OK     linkedin | NOC manager | Riyadh, Saudi Arabia -> 13 jobs
+OK     indeed | NOC manager | Riyadh, Saudi Arabia -> 1 jobs
+OK     linkedin | service delivery manager telecom | Riyadh, Saudi Arabia -> 20 jobs
+OK     indeed | service delivery manager telecom | Riyadh, Saudi Arabia -> 2 jobs
+OK     linkedin | major incident manager | Riyadh, Saudi Arabia -> 19 jobs
+OK     indeed | major incident manager | Riyadh, Saudi Arabia -> 3 jobs
+OK     linkedin | cloud operations manager | Riyadh, Saudi Arabia -> 20 jobs
+OK     indeed | cloud operations manager | Riyadh, Saudi Arabia -> 3 jobs
+EMPTY  linkedin | IT infrastructure manager | Riyadh, Saudi Arabia
+OK     indeed | IT infrastructure manager | Riyadh, Saudi Arabia -> 20 jobs
+OK     linkedin | telecom project manager | Riyadh, Saudi Arabia -> 20 jobs
+OK     indeed | telecom project manager | Riyadh, Saudi Arabia -> 2 jobs
+OK     linkedin | network operations manager | Toronto, Canada -> 20 jobs
+OK     indeed | network operations manager | Toronto, Canada -> 20 jobs
+EMPTY  zip_recruiter | network operations manager | Toronto, Canada
+OK     linkedin | NOC manager | Toronto, Canada -> 20 jobs
+OK     indeed | NOC manager | Toronto, Canada -> 7 jobs
+EMPTY  zip_recruiter | NOC manager | Toronto, Canada
+OK     linkedin | service delivery manager telecom | Toronto, Canada -> 20 jobs
+OK     indeed | service delivery manager telecom | Toronto, Canada -> 5 jobs
+EMPTY  zip_recruiter | service delivery manager telecom | Toronto, Canada
+OK     linkedin | major incident manager | Toronto, Canada -> 20 jobs
+OK     indeed | major incident manager | Toronto, Canada -> 20 jobs
+EMPTY  zip_recruiter | major incident manager | Toronto, Canada
+SKIPPED zip_recruiter: no jobs after 4 tries
+OK     linkedin | cloud operations manager | Toronto, Canada -> 10 jobs
+OK     indeed | cloud operations manager | Toronto, Canada -> 20 jobs
+OK     linkedin | IT infrastructure manager | Toronto, Canada -> 20 jobs
+OK     indeed | IT infrastructure manager | Toronto, Canada -> 20 jobs
+OK     linkedin | telecom project manager | Toronto, Canada -> 20 jobs
+OK     indeed | telecom project manager | Toronto, Canada -> 1 jobs
+
+=== SITE SUMMARY ===
+linkedin: 445 jobs from 26/28 searches (used)
+indeed: 248 jobs from 27/28 searches (used)
+bayt: 0 jobs from 0/4 searches (skipped)
+google: 0 jobs from 0/4 searches (skipped)
+glassdoor: 0 jobs from 0/4 searches (skipped)
+zip_recruiter: 0 jobs from 0/4 searches (skipped)
+
+=== FILTERS ===
+Total after removing duplicates: 426
+Dropped for missing role keyword: 146
+Dropped for seniority: 23
+Dropped for employment type: 16
+Dropped for exclude words: 21
+Rescued to MAYBE (exclude word but tech title): 2
+Dropped, score 0 (no evidence): 57
+Moved to MAYBE list (score 1-2): 91
+Strong matches before merging repeats: 72
+Merged repeated jobs: 3
+Final strong matches: 69
+Final maybe list: 90
+  Priority companies: 4
+  Industry verified: 60
+  Score 5 or more: 31

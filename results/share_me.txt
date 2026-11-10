@@ -1,0 +1,98 @@
+RUN SUMMARY 2026-11-10
+
+SITES
+linkedin: 445 jobs from 26/28 searches (used)
+indeed: 248 jobs from 27/28 searches (used)
+bayt: 0 jobs from 0/4 searches (skipped)
+google: 0 jobs from 0/4 searches (skipped)
+glassdoor: 0 jobs from 0/4 searches (skipped)
+zip_recruiter: 0 jobs from 0/4 searches (skipped)
+
+FILTERS
+Total after removing duplicates: 426
+Dropped for missing role keyword: 146
+Dropped for seniority: 23
+Dropped for employment type: 16
+Dropped for exclude words: 21
+Rescued to MAYBE (exclude word but tech title): 2
+Dropped, score 0 (no evidence): 57
+Moved to MAYBE list (score 1-2): 91
+Strong matches before merging repeats: 72
+Merged repeated jobs: 3
+Final strong matches: 69
+Final maybe list: 90
+  Priority companies: 4
+  Industry verified: 60
+  Score 5 or more: 31
+
+REGIONS (strong matches): Canada 33, UAE 24, KSA 7, Qatar 5
+SCORES: 9:1, 8:1, 7:6, 6:16, 5:7, 4:22, 3:16
+
+TOP 15 (score | title | company | location)
+9 | Senior Cloud Infra and IP Engineer | Ericsson | Riyadh, Riyadh, Saudi Arabia
+8 | Gestionnaire principal de la stratégie, Réseau … | Bell | Toronto, Ontario, Canada
+7 | IT Manager (Operations & Infrastructure) | The Greater Change | Dubai, Dubai, United Arab E…
+7 | Manager – Service Delivery (Data Centre, Infras… | Abu Dhabi Commercial Bank | Dubai, United Arab Emirates
+7 | Senior Advisor, Data Center Cabling Project Man… | Dell Technologies | Riyadh Region
+7 | Senior Project Manager – Telecommunications & I… | Jaggard Group | Dubai, DU, United Arab Emir…
+7 | Executive Director - ICT Operations (Technology… | Qiddiya | القدية | Riyadh, Riyadh, Saudi Arabia
+7 | Group IT Manager – Infrastructure & Technology … | Talent Higher | Dubai, United Arab Emirates
+6 | Data Center Facility Manager-Dubai | Alibaba Cloud | Dubai, Dubai, United Arab E…
+6 | Senior Engineer - Cloud & Systems | MEEZA QSTP | Doha, Qatar
+6 | Incident & Problem Manager, Cloud Operations | Sectra | Mississauga, Ontario, Canada
+6 | Data Center Technicians Manager | Microsoft | Dubai, Dubai, United Arab E…
+6 | Data Center Inventory & Asset Technician Manager | Microsoft | Dubai, DU, United Arab Emir…
+6 | Principal Data Center Facilities Development Ma… | Oracle | Dubai, Dubai, United Arab E…
+6 | Senior Manager - Access Network Operations | RBC | Toronto, Ontario, Canada
+
+LOWEST 8 STRONG MATCHES
+3 | TMT Program Manager | HDR | Verified
+3 | Security & Technology Services Manager | New Age Group | Verified
+3 | Engagement Delivery Manager | Randstad Digital | Verified
+3 | Senior Manager, Data Strategy and Operations | Scotiabank | Verified
+3 | Project Manager (12 Months Contract) | TMX GROUP | Verified
+3 | Program Manager | Extreme Networks | Verified
+3 | Manager,  DevOps | Michael Page | Verified
+3 | Project Manager | HRbrain Inc. | Verified
+
+TOP 10 MAYBE (score | title | company | why)
+6 | Customer Support Manager | Motorola Solutions | score 2 below 3
+5 | Senior Manager, Bell AI Fabric Strategy | Bell | score 2 below 3
+5 | Manager, Partnerships & Innovation | Rogers Communications | score 2 below 3
+5 | Manager Statflo Strategy | Rogers Communications | score 2 below 3
+5 | Senior Manager of OSP Construction | Insight Global | exclude word 'construction' but title has a tech word
+4 | Project Manager - Civil & Electrical Constructi… | Verdi Alliance Group of C… | exclude word 'construction' but title has a tech word
+3 | Senior Technical Account Manager, Microsegmenta… | Akamai Technologies | score 2 below 3
+3 | SENIOR BIM MANAGER | EDMAC ENGINEERING CONSULT… | score 2 below 3
+3 | Restaurant Manager | Mandoos Hospitality LLC | score 2 below 3
+3 | Principal Programme Manager  Professional Servi… | Adobe | score 2 below 3
+
+DROPPED SAMPLES (to check nothing good is lost)
+- missing role: 146 total; examples:
+    Technical Lead | Qatar Airways | missing role keyword
+    Electrical Engineer/Telecommunications | HanmiGlobal MENA | missing role keyword
+    Core Technical Lead | Ericsson | missing role keyword
+    Planning Engineer-Road and Infrastructure | LINKS OUTSOURCE L.L.C-FZ | missing role keyword
+    Senior Information Security (Application Security) | TD | missing role keyword
+    Azure Platform & Integration Specialist | KPMG | missing role keyword
+- seniority: 23 total; examples:
+    Project Controls Coordinator | TTC (Toronto Transit Co… | no seniority word in ti…
+    OPERATIONS SUPERVISOR (TRANS & DIST) | QatarEnergy | no seniority word in ti…
+    Network Engineer - Rugby School Dubai | Aldar Academies | no seniority word in ti…
+    Supervisor - IT Operations | MDA Space | no seniority word in ti…
+    Project Engineering Management, Principal Enginee… | Synopsys Inc | no seniority word in ti…
+    Project Engineer (CCTV & ELV Systems) | Netcom System Solution | no seniority word in ti…
+- exclude word: 21 total; examples:
+    Customer Experience Manager I Real Estate I Asset… | Al-Futtaim | exclude word: real esta…
+    Manager / Senior Manager | Tax & Legal | Legal | … | Deloitte | exclude word: legal
+    Senior Manager, Customer Success and Transformati… | Bell | exclude word: customer …
+    MENAT/SSA Startup Sales Leader, EMEA SUP | Amazon Web Services | exclude word: sales
+    Sales & Marketing Manager (Remote) – Own Visa pre… | Ababeel FZE LLC. | exclude word: sales
+    Senior Logistics, Security and Interface Manager | Jasara Program Manageme… | exclude word: logistics
+- score 0: 57 total; examples:
+    Quality Compliance Manager | SLB | score 0: no role or ind…
+    Director, Employee Relations | Autodesk | score 0: no role or ind…
+    Managers in social, community and correctional se… | Oasis Staffing & Foster… | score 0: no role or ind…
+    Senior Technical Support Account Manager | SAS | score 0: no role or ind…
+    Head of E&M Transformation Programme | Parsons Corporation | score 0: no role or ind…
+    Test & Commissioning Manager (Qatar-based, 6-mont… | Newtone consulting | score 0: no role or ind…
