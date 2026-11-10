@@ -10,7 +10,7 @@ EMPTY  bayt | service delivery director telecom | United States
 EMPTY  google | service delivery director telecom | United States
 EMPTY  glassdoor | service delivery director telecom | United States
 EMPTY  zip_recruiter | service delivery director telecom | United States
-EMPTY  linkedin | head of service delivery | United States
+OK     linkedin | head of service delivery | United States -> 20 jobs
 OK     indeed | head of service delivery | United States -> 20 jobs
 EMPTY  bayt | head of service delivery | United States
 EMPTY  google | head of service delivery | United States
@@ -26,9 +26,9 @@ EMPTY  glassdoor | customer operations director | United States
 SKIPPED glassdoor: no jobs after 4 tries
 EMPTY  zip_recruiter | customer operations director | United States
 SKIPPED zip_recruiter: no jobs after 4 tries
-OK     linkedin | network operations director | United States -> 20 jobs
+OK     linkedin | network operations director | United States -> 10 jobs
 EMPTY  indeed | network operations director | United States
-EMPTY  linkedin | senior service delivery manager | United States
+OK     linkedin | senior service delivery manager | United States -> 20 jobs
 OK     indeed | senior service delivery manager | United States -> 20 jobs
 OK     linkedin | customer operations manager | United States -> 20 jobs
 OK     indeed | customer operations manager | United States -> 20 jobs
@@ -38,35 +38,35 @@ OK     linkedin | cloud service delivery manager | United States -> 20 jobs
 OK     indeed | cloud service delivery manager | United States -> 20 jobs
 OK     linkedin | telecom program manager | United States -> 20 jobs
 OK     indeed | telecom program manager | United States -> 10 jobs
-EMPTY  linkedin | managed services director | Canada
+OK     linkedin | managed services director | Canada -> 20 jobs
 OK     indeed | managed services director | Canada -> 20 jobs
-EMPTY  linkedin | service delivery director telecom | Canada
+OK     linkedin | service delivery director telecom | Canada -> 20 jobs
 OK     indeed | service delivery director telecom | Canada -> 4 jobs
 OK     linkedin | head of service delivery | Canada -> 20 jobs
 OK     indeed | head of service delivery | Canada -> 20 jobs
 OK     linkedin | customer operations director | Canada -> 20 jobs
 OK     indeed | customer operations director | Canada -> 20 jobs
-OK     linkedin | network operations director | Canada -> 20 jobs
+OK     linkedin | network operations director | Canada -> 10 jobs
 OK     indeed | network operations director | Canada -> 20 jobs
-EMPTY  linkedin | senior service delivery manager | Canada
+OK     linkedin | senior service delivery manager | Canada -> 20 jobs
 OK     indeed | senior service delivery manager | Canada -> 20 jobs
-EMPTY  linkedin | customer operations manager | Canada
+OK     linkedin | customer operations manager | Canada -> 10 jobs
 OK     indeed | customer operations manager | Canada -> 20 jobs
 OK     linkedin | NOC manager telecom | Canada -> 20 jobs
 EMPTY  indeed | NOC manager telecom | Canada
-OK     linkedin | cloud service delivery manager | Canada -> 10 jobs
+OK     linkedin | cloud service delivery manager | Canada -> 20 jobs
 OK     indeed | cloud service delivery manager | Canada -> 20 jobs
-OK     linkedin | telecom program manager | Canada -> 20 jobs
+OK     linkedin | telecom program manager | Canada -> 10 jobs
 OK     indeed | telecom program manager | Canada -> 20 jobs
 OK     linkedin | managed services director | Saudi Arabia -> 20 jobs
-OK     indeed | managed services director | Saudi Arabia -> 3 jobs
-EMPTY  linkedin | service delivery director telecom | Saudi Arabia
+OK     indeed | managed services director | Saudi Arabia -> 2 jobs
+OK     linkedin | service delivery director telecom | Saudi Arabia -> 20 jobs
 EMPTY  indeed | service delivery director telecom | Saudi Arabia
 OK     linkedin | head of service delivery | Saudi Arabia -> 20 jobs
 OK     indeed | head of service delivery | Saudi Arabia -> 11 jobs
 OK     linkedin | customer operations director | Saudi Arabia -> 20 jobs
 OK     indeed | customer operations director | Saudi Arabia -> 8 jobs
-OK     linkedin | network operations director | Saudi Arabia -> 10 jobs
+OK     linkedin | network operations director | Saudi Arabia -> 20 jobs
 OK     indeed | network operations director | Saudi Arabia -> 5 jobs
 OK     linkedin | senior service delivery manager | Saudi Arabia -> 20 jobs
 OK     indeed | senior service delivery manager | Saudi Arabia -> 20 jobs
@@ -74,7 +74,7 @@ OK     linkedin | customer operations manager | Saudi Arabia -> 20 jobs
 OK     indeed | customer operations manager | Saudi Arabia -> 20 jobs
 OK     linkedin | NOC manager telecom | Saudi Arabia -> 20 jobs
 EMPTY  indeed | NOC manager telecom | Saudi Arabia
-OK     linkedin | cloud service delivery manager | Saudi Arabia -> 20 jobs
+EMPTY  linkedin | cloud service delivery manager | Saudi Arabia
 OK     indeed | cloud service delivery manager | Saudi Arabia -> 6 jobs
 OK     linkedin | telecom program manager | Saudi Arabia -> 20 jobs
 OK     indeed | telecom program manager | Saudi Arabia -> 4 jobs
@@ -84,23 +84,23 @@ OK     linkedin | service delivery director telecom | Qatar -> 20 jobs
 EMPTY  indeed | service delivery director telecom | Qatar
 OK     linkedin | head of service delivery | Qatar -> 20 jobs
 OK     indeed | head of service delivery | Qatar -> 18 jobs
-OK     linkedin | customer operations director | Qatar -> 20 jobs
+OK     linkedin | customer operations director | Qatar -> 10 jobs
 OK     indeed | customer operations director | Qatar -> 8 jobs
 OK     linkedin | network operations director | Qatar -> 13 jobs
 OK     indeed | network operations director | Qatar -> 1 jobs
-OK     linkedin | senior service delivery manager | Qatar -> 20 jobs
-OK     indeed | senior service delivery manager | Qatar -> 14 jobs
-OK     linkedin | customer operations manager | Qatar -> 20 jobs
+OK     linkedin | senior service delivery manager | Qatar -> 10 jobs
+OK     indeed | senior service delivery manager | Qatar -> 13 jobs
+OK     linkedin | customer operations manager | Qatar -> 10 jobs
 OK     indeed | customer operations manager | Qatar -> 20 jobs
 OK     linkedin | NOC manager telecom | Qatar -> 6 jobs
 EMPTY  indeed | NOC manager telecom | Qatar
-OK     linkedin | cloud service delivery manager | Qatar -> 18 jobs
+EMPTY  linkedin | cloud service delivery manager | Qatar
 OK     indeed | cloud service delivery manager | Qatar -> 1 jobs
 OK     linkedin | telecom program manager | Qatar -> 20 jobs
 EMPTY  indeed | telecom program manager | Qatar
 OK     linkedin | managed services director | United Arab Emirates -> 20 jobs
-OK     indeed | managed services director | United Arab Emirates -> 17 jobs
-OK     linkedin | service delivery director telecom | United Arab Emirates -> 20 jobs
+OK     indeed | managed services director | United Arab Emirates -> 18 jobs
+OK     linkedin | service delivery director telecom | United Arab Emirates -> 10 jobs
 EMPTY  indeed | service delivery director telecom | United Arab Emirates
 OK     linkedin | head of service delivery | United Arab Emirates -> 20 jobs
 OK     indeed | head of service delivery | United Arab Emirates -> 20 jobs
@@ -110,36 +110,36 @@ OK     linkedin | network operations director | United Arab Emirates -> 20 jobs
 OK     indeed | network operations director | United Arab Emirates -> 20 jobs
 OK     linkedin | senior service delivery manager | United Arab Emirates -> 20 jobs
 OK     indeed | senior service delivery manager | United Arab Emirates -> 20 jobs
-EMPTY  linkedin | customer operations manager | United Arab Emirates
+OK     linkedin | customer operations manager | United Arab Emirates -> 20 jobs
 OK     indeed | customer operations manager | United Arab Emirates -> 20 jobs
 OK     linkedin | NOC manager telecom | United Arab Emirates -> 20 jobs
 EMPTY  indeed | NOC manager telecom | United Arab Emirates
-OK     linkedin | cloud service delivery manager | United Arab Emirates -> 20 jobs
-OK     indeed | cloud service delivery manager | United Arab Emirates -> 18 jobs
+OK     linkedin | cloud service delivery manager | United Arab Emirates -> 10 jobs
+OK     indeed | cloud service delivery manager | United Arab Emirates -> 19 jobs
 OK     linkedin | telecom program manager | United Arab Emirates -> 20 jobs
-OK     indeed | telecom program manager | United Arab Emirates -> 2 jobs
+OK     indeed | telecom program manager | United Arab Emirates -> 3 jobs
 
 === SITE SUMMARY ===
-linkedin: 795 jobs from 42/50 searches (used)
-indeed: 597 jobs from 40/50 searches (used)
+linkedin: 847 jobs from 48/50 searches (used)
+indeed: 598 jobs from 40/50 searches (used)
 bayt: 0 jobs from 0/4 searches (skipped)
 google: 0 jobs from 0/4 searches (skipped)
 glassdoor: 0 jobs from 0/4 searches (skipped)
 zip_recruiter: 0 jobs from 0/4 searches (skipped)
 
 === FILTERS ===
-Total after removing duplicates: 1025
-Dropped for missing role keyword: 170
-Dropped for seniority: 37
-Dropped for employment type: 34
-Dropped for exclude words: 82
-Rescued to MAYBE (exclude word but tech title): 4
-Dropped, score 0 (no evidence): 207
-Moved to MAYBE list (score 1-2): 251
-Strong matches before merging repeats: 244
-Merged repeated jobs: 20
-Final strong matches: 224
-Final maybe list: 241
-  Priority companies: 24
-  Industry verified: 208
-  Score 5 or more: 119
+Total after removing duplicates: 1082
+Dropped for missing role keyword: 178
+Dropped for seniority: 38
+Dropped for employment type: 35
+Dropped for exclude words: 88
+Rescued to MAYBE (exclude word but tech title): 3
+Dropped, score 0 (no evidence): 195
+Moved to MAYBE list (score 1-2): 276
+Strong matches before merging repeats: 272
+Merged repeated jobs: 28
+Final strong matches: 244
+Final maybe list: 266
+  Priority companies: 25
+  Industry verified: 224
+  Score 5 or more: 132
