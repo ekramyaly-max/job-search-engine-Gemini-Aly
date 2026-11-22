@@ -1,98 +1,98 @@
-RUN SUMMARY 2026-11-21
+RUN SUMMARY 2026-11-22
 
 SITES
-linkedin: 475 jobs from 27/40 searches (used)
-indeed: 472 jobs from 37/40 searches (used)
+linkedin: 610 jobs from 35/40 searches (used)
+indeed: 469 jobs from 37/40 searches (used)
 bayt: 0 jobs from 0/4 searches (skipped)
 google: 0 jobs from 0/4 searches (skipped)
 glassdoor: 0 jobs from 0/4 searches (skipped)
 zip_recruiter: 0 jobs from 0/4 searches (skipped)
 
 FILTERS
-Total after removing duplicates: 763
-Dropped for missing role keyword: 112
-Dropped for seniority: 24
-Dropped for employment type: 13
-Dropped for exclude words: 85
+Total after removing duplicates: 836
+Dropped for missing role keyword: 122
+Dropped for seniority: 25
+Dropped for employment type: 17
+Dropped for exclude words: 90
 Rescued to MAYBE (exclude word but tech title): 8
-Dropped, score 0 (no evidence): 157
-Moved to MAYBE list (score 1-3): 262
-Strong matches before merging repeats: 110
-Merged repeated jobs: 14
-Final strong matches: 96
-Final maybe list: 255
+Dropped, score 0 (no evidence): 160
+Moved to MAYBE list (score 1-3): 306
+Strong matches before merging repeats: 116
+Merged repeated jobs: 10
+Final strong matches: 106
+Final maybe list: 297
   Priority companies: 12
-  Industry verified: 79
-  Score 5 or more: 87
+  Industry verified: 89
+  Score 5 or more: 98
 
-REGIONS (strong matches): USA 49, Canada 22, UAE 10, KSA 7, Qatar 6, Other 2
-SCORES: 10:2, 9:9, 8:1, 7:9, 6:35, 5:31, 4:9
+REGIONS (strong matches): USA 57, Canada 25, UAE 11, KSA 7, Qatar 5, Other 1
+SCORES: 10:2, 9:8, 8:2, 7:8, 6:42, 5:36, 4:8
 
 TOP 15 (score | title | workplace | company | location)
 10 | Crisis and Resilience Regional Technica… | Onsite | Google | Dubai, Dubai, Unite…
 10 | Public Cloud Operations Lead | Onsite | Rogers Communicatio… | Brampton, Ontario, …
+9 | Principal Program Manager, Data Center … | Remote | Microsoft | Redmond, WA, USA
 9 | Fiber and Capacity Delivery Lead, Globa… | Onsite | Google | Thornton, CO, USA
 9 | Senior Cloud Solution Architect Manager | Onsite | Microsoft | Toronto, Ontario, C…
 9 | Head of Service Reliability | Onsite | Ericsson | Riyadh, Riyadh, Sau…
-9 | Principal Engineer - Wireless Project M… | Onsite | Verizon | Rochester, NY, USA
+9 | Principal Engineer - Wireless Project M… | Remote | Verizon | Rochester, NY, USA
 9 | Data Center Program Manager | Onsite | Microsoft | Boydton, VA, USA
-9 | Data Center Security Manager (Saudi Nat… | Onsite | Amazon Web Services… | Riyadh, Riyadh, Sau…
 9 | Program Manager I, Data Center Software… | Onsite | Google | Thornton, CO, USA
 9 | Data Center Operations Program Manager-… | Onsite | Microsoft | Chicago, IL, USA
-9 | Technical Infrastructure Program Manage… | Onsite | Amazon Web Services… | Seattle, WA, USA | …
-8 | Manager-Network Services | Onsite | AT&T | Pearl City, HI, USA
+8 | Cloud Solution Architect Manager - CTJ … | Onsite | Microsoft | Washington, DC, USA
+8 | Manager-Network Services | Onsite | AT&T | Pearl City, HI, USA…
+7 | Service Delivery Manager - (PA2025Q3JB1… | Hybrid | SS&C Technologies | Toronto, Ontario, C…
 7 | Principal Service Delivery Manager | Onsite | Capgemini | Toronto, Ontario, C…
-7 | Global Program engineer Manager - Data … | Onsite | Eaton | Dubai, Dubai, Unite…
-7 | ICT Project Manager | Onsite | Marketing Eye FZ LLC | Dubai, DU, United A…
+7 | Infrastructure Digital Delivery Lead | Hybrid | WSP in the Middle E… | Dubai, Dubai, Unite…
 
 LOWEST 8 STRONG MATCHES
-4 | Incident Manager | Onsite | Innova Software Ser… | No match in text
+4 | Sr. Incident Response Manager-Service M… | Hybrid | Target | No match in text
+4 | Head of Service Delivery | Remote | Influx | No match in text
 4 | Major Incident IT Manager, Temporary | Onsite | UT Southwestern Med… | No match in text
-4 | Director, Enterprise Service Delivery (… | Remote | CoreCivic | No match in text
-4 | Incident Manager | Onsite | Centraprise | Unverified
-4 | Lead Major Incident Manager | Onsite | GSK | No match in text
-4 | IT Incident Manager | Remote | Crown Equipment Cor… | No match in text
-4 | Engineering Manager, Head of Data & Inf… | Remote | State Street | Verified
-4 | Engineering Manager, Incident Management | Onsite | TikTok USDS Joint V… | Unverified
+4 | Incident Manager | Onsite | Innova Software Ser… | No match in text
+4 | Oracle Service Delivery Manager | Onsite | Centroid Systems | Unverified
+4 | Head of Workforce Solutions Service Del… | Hybrid | Intuit | No match in text
+4 | Sr. Manager, Digital Workplace Solution… | Onsite | Lenovo | Verified
+4 | Director of Service Delivery | Remote | ITCON Services | No match in text
 
 TOP 10 MAYBE (score | title | workplace | company | why)
 7 | Senior Customer Success Manager (Transf… | Onsite | Amazon Web Services | score 3 below 4
 7 | Customer Success Manager | Onsite | Salesforce | score 3 below 4
 7 | Solution Delivery Manager | Onsite | Rogers Communicatio… | score 3 below 4
+7 | Senior Technical Project Manager | Onsite | TELUS Health | score 3 below 4
 7 | Gestionnaire de Mandats | Engagement Ma… | Onsite | Amazon Web Services… | score 3 below 4
+6 | Construction Manager - Data Centers | Onsite | UCC Holding | exclude word 'construction' but title has a tech word
 6 | Customer Risk Manager | Onsite | Salesforce | score 2 below 4
+6 | Project Manager (Government) | Onsite | AT&T | score 3 below 4
+6 | Program Director - Oil, Gas, and Energy… | Remote | Microsoft | score 3 below 4
 6 | Regional Defense Practice Lead | Onsite | Motorola Solutions | score 2 below 4
-6 | Sr. Technical Account Manager, Enterpri… | Onsite | Amazon Web Services… | score 2 below 4
-6 | Wireless Store Manager | Onsite | The Mobile Shop | exclude word 'store' but title has a tech word
-6 | Senior Project Manager | Onsite | Motorola Solutions | score 3 below 4
-6 | Field Service Operation Manager | Onsite | Ericsson | score 2 below 4
 
 DROPPED SAMPLES (to check nothing good is lost)
-- missing role: 112 total; examples:
-    Cybersecurity Consultant | Remote | Taalum Group | missing role keyword
-    Senior Cybersecurity Specialist - Saudi… | Onsite | Egis | missing role keyword
-    Security Analyst | Onsite | Hydro One | missing role keyword
-    AI Enablement Engineer | Onsite | Scotiabank | missing role keyword
-    Systems Integration Specialist Advisor | Remote | NTT DATA | missing role keyword
-    Clerical Assistant II | Onsite | University Health N… | missing role keyword
-- seniority: 24 total; examples:
-    Principal Cloud Operations Engineer (GC… | Onsite | Halian | Managed Se… | no seniority word i…
-    Academy Scheduling & Program Operations | Onsite | Merrithew | no seniority word i…
-    Group Client Delivery Partner | Onsite | Capgemini | no seniority word i…
-    Oracle Programmer | Onsite | HyROI Solutions- An… | no seniority word i…
-    DR Planning and Operations Specialist | Onsite | RBC | no seniority word i…
+- missing role: 122 total; examples:
+    Service Architect | Onsite | Ericsson | missing role keyword
+    Clinical Research Coordinator I - Toron… | Onsite | University Health N… | missing role keyword
+    End-to-End Service Order Orchestration … | Hybrid | Norconsult Telemati… | missing role keyword
+    مهندس أول - الجدولة ومعلومات التنقل | Onsite | The Roads and Trans… | missing role keyword
+    Senior Cybersecurity Specialist - Saudi… | Onsite | Egis Group | missing role keyword
+    FACILITIES MAINTENANCE & CONTRACTOR SAF… | Onsite | Bureau Veritas | missing role keyword
+- seniority: 25 total; examples:
+    Global Security Operations Centre Opera… | Onsite | International SOS | no seniority word i…
+    project engineer | Onsite | Hudson's Bay Company | no seniority word i…
     Project Engineer - Controls Systems | Onsite | Johnson Controls | no seniority word i…
-- exclude word: 85 total; examples:
-    Sr Manager Sourcing Operation - Capital… | Onsite | Hydro One | exclude word: procu…
+    Group Client Delivery Partner | Onsite | Capgemini | no seniority word i…
+    Operations Controller | Onsite | Riyadh Air | no seniority word i…
+    Business Analyst, Enterprise Data & Clo… | Hybrid | General Motors (GM) | no seniority word i…
+- exclude word: 90 total; examples:
     Talent Acquisition & Recruitment Manager | Remote | Adonis Partners INC. | exclude word: recru…
-    Hotel General Manager - Cedar Park, Tex… | Onsite | J&P Hospitality Man… | exclude word: hotel
+    Business Sales & Delivery Leader-SAP | Hybrid | IBM | exclude word: sales
+    Head of Logistics, Middle East, Türkiye… | Onsite | KONE | exclude word: logis…
     Procurement Manager | Onsite | Qatar Airways | exclude word: procu…
-    Senior Procurement Manager | Onsite | Bothwell Accurate | exclude word: procu…
-    Sales Manager - Tashkeel | Onsite | tashkeel | exclude word: sales
-- score 0: 157 total; examples:
-    Technical Quality Manager / Success Pla… | Onsite | SAP | score 0: no role or…
-    Senior Manager - Corporate Services & C… | Onsite | Lighting and Electr… | score 0: no role or…
-    General Manager | Onsite | Fairfield Inn & Sui… | score 0: no role or…
-    Manager, Technical Services | Onsite | Communications & Po… | score 0: no role or…
-    Business Development Manager | Onsite | Crane Worldwide Fre… | score 0: no role or…
-    Technical Customer Support Team Lead | Onsite | Dot Compliance | score 0: no role or…
+    Store Manager | Onsite | Vodafone | exclude word: store
+    Domain Sales Support Manager | Onsite | Ericsson | exclude word: sales
+- score 0: 160 total; examples:
+    Manager, Technical Services | Remote | Communications & Po… | score 0: no role or…
+    Customer Experience Manager - Fintech | Onsite | Edison Smart® | score 0: no role or…
+    Senior Commercial Manager | Onsite | AtkinsRéalis | score 0: no role or…
+    Vice President, Service - Enterprise | Onsite | Paychex | score 0: no role or…
+    Director of Quality - The St. Regis Dow… | Onsite | Marriott Internatio… | score 0: no role or…
+    Director, Events & Content | Remote | CIBC | score 0: no role or…
