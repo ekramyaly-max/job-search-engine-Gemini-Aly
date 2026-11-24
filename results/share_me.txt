@@ -1,98 +1,98 @@
-RUN SUMMARY 2026-11-23
+RUN SUMMARY 2026-11-24
 
 SITES
-linkedin: 596 jobs from 35/40 searches (used)
+linkedin: 590 jobs from 31/40 searches (used)
 indeed: 449 jobs from 37/40 searches (used)
-bayt: 0 jobs from 0/4 searches (skipped)
+bayt: 96 jobs from 17/40 searches (used)
 google: 0 jobs from 0/4 searches (skipped)
 glassdoor: 0 jobs from 0/4 searches (skipped)
 zip_recruiter: 0 jobs from 0/4 searches (skipped)
 
 FILTERS
-Total after removing duplicates: 801
-Dropped for missing role keyword: 126
-Dropped for seniority: 31
+Total after removing duplicates: 850
+Dropped for missing role keyword: 122
+Dropped for seniority: 39
 Dropped for employment type: 19
-Dropped for exclude words: 75
+Dropped for exclude words: 83
 Rescued to MAYBE (exclude word but tech title): 7
-Dropped, score 0 (no evidence): 158
-Moved to MAYBE list (score 1-3): 272
-Strong matches before merging repeats: 120
-Merged repeated jobs: 11
-Final strong matches: 109
-Final maybe list: 260
-  Priority companies: 8
-  Industry verified: 89
-  Score 5 or more: 95
+Dropped, score 0 (no evidence): 166
+Moved to MAYBE list (score 1-3): 288
+Strong matches before merging repeats: 133
+Merged repeated jobs: 13
+Final strong matches: 120
+Final maybe list: 280
+  Priority companies: 16
+  Industry verified: 84
+  Score 5 or more: 100
 
-REGIONS (strong matches): USA 65, Canada 25, UAE 6, KSA 6, Qatar 5, Other 2
-SCORES: 10:2, 9:5, 8:1, 7:8, 6:45, 5:34, 4:14
+REGIONS (strong matches): USA 62, Canada 31, UAE 10, KSA 9, Qatar 7, Other 1
+SCORES: 10:5, 9:10, 8:1, 7:11, 6:38, 5:35, 4:20
 
 TOP 15 (score | title | workplace | company | location)
-10 | Crisis and Resilience Regional Technica… | Onsite | Google | Dubai, Dubai, Unite…
-10 | Public Cloud Operations Lead | Onsite | Rogers Communicatio… | Brampton, Ontario, …
+10 | Head of Service Delivery STC-IT Mobily-… | Onsite | Ericsson | Riyadh, Riyadh, Sau…
+10 | Head of Service Delivery KSA | Onsite | Ericsson | Riyadh, Riyadh, Sau…
+10 | Director Customer Operations | Onsite | Ericsson | Toronto, Ontario, C…
+10 | Critical Environment Operations Manager… | Onsite | Microsoft | Toronto, Ontario, C…
+10 | Crisis and Resilience Regional Technica… | Onsite | Google | Dubai, DU, United A…
+9 | Senior Technical Program Manager, Globa… | Onsite | Google | New York, NY, USA
+9 | Technical Program Manager II, Data Cent… | Onsite | Google | Atlanta, GA, USA
+9 | Delivery Practice Manager, AWS Industri… | Onsite | Amazon Web Services… | Houston, TX, USA
+9 | Senior Cloud Solution Architect Manager | Onsite | Microsoft | Toronto, Ontario, C…
+9 | Data Center Server Operations Manager, … | Onsite | Google | Henderson, NV, USA
 9 | Head of Service Reliability | Onsite | Ericsson | Riyadh, Riyadh, Sau…
-9 | Data Center Program Manager | Onsite | Microsoft | Boydton, VA, USA
+9 | Principal Engineer - Wireless Project M… | Remote | Verizon | Rochester, NY, USA
 9 | Data Center Security Manager (Saudi Nat… | Onsite | Amazon Web Services… | Riyadh, Riyadh, Sau…
 9 | Program Manager I, Data Center Software… | Onsite | Google | Thornton, CO, USA
-9 | Data Center Operations Program Manager-… | Onsite | Microsoft | Chicago, IL, USA
-8 | Manager-Network Services | Onsite | AT&T | Pearl City, HI, USA
-7 | Service Delivery Manager - SAP Managed … | Onsite | EY | Toronto, Ontario, C…
-7 | Principal Service Delivery Manager | Onsite | Capgemini | Toronto, Ontario, C…
-7 | Infrastructure Digital Delivery Lead | Hybrid | WSP in the Middle E… | Dubai, Dubai, Unite…
-7 | WMS Service Delivery Manager - 71263241 | Onsite | Cognizant | Mississauga, Ontari…
-7 | Global Program engineer Manager - Data … | Hybrid | Eaton | Dubai, Dubai, Unite…
-7 | Service Delivery Manager | Onsite | Avanade | Toronto, Ontario, C…
-7 | Incident Management Lead / Responsable … | Hybrid | IBM | Toronto, Ontario, C…
+9 | Public Cloud Operations Lead | Onsite | Rogers Communicatio… | Brampton, ON, Canada
 
 LOWEST 8 STRONG MATCHES
-4 | Incident Manager | Onsite | Centraprise | Unverified
-4 | Head of Workforce Solutions Service Del… | Hybrid | Intuit | No match in text
+4 | Incident Operations Manager | Onsite | Chime | No match in text
+4 | Service Delivery Director | Onsite | Atos | Unverified
+4 | Head of Workforce Solutions Service Del… | Onsite | Intuit | Unverified
+4 | Global Service Delivery Lead-Field Serv… | Onsite | Cognizant | Unverified
 4 | Lead Major Incident Manager | Onsite | GSK | Unverified
-4 | Sr. Manager, Digital Workplace Solution… | Onsite | Lenovo | Verified
-4 | Director of Service Delivery | Remote | ITCON Services | No match in text
-4 | IT Incident Manager | Remote | Crown Equipment Cor… | No match in text
-4 | Service Delivery Lead | Onsite | IMCS Group | Unverified
-4 | Manager - Application Delivery | Onsite | Old Dominion Freigh… | Verified
+4 | AMS Service Delivery Manager | Onsite | Peloton Consulting … | Unverified
+4 | Director of Service Delivery | Onsite | ITCON Services | Unverified
+4 | IT Incident Manager | Onsite | Crown Equipment Cor… | Unverified
 
 TOP 10 MAYBE (score | title | workplace | company | why)
-7 | Senior Customer Success Manager (Transf… | Onsite | Amazon Web Services | score 3 below 4
+10 | Infrastructure & Operations Budgeting A… | Onsite | stc | exclude word 'assistant' but title has a tech word
+10 | Senior Manager, Program Controls, Data … | Onsite | Bell | exclude word 'construction' but title has a tech word
+7 | Lead Management Operations | Onsite | Rogers Communicatio… | score 3 below 4
 7 | Customer Success Manager | Onsite | Salesforce | score 3 below 4
 7 | Solution Delivery Manager | Onsite | Rogers Communicatio… | score 3 below 4
-7 | Senior Technical Project Manager | Onsite | TELUS Health | score 3 below 4
-6 | Assistant Manager – IT Infrastructure &… | Onsite | Learn To B HR Consu… | exclude word 'assistant' but title has a tech word
+7 | Assistant Manager - Assets Infrastructu… | Onsite | Qiddiya | القدية | exclude word 'assistant' but title has a tech word
+6 | Assistant Manager – IT Infrastructure &… | Hybrid | Learn To B HR Consu… | exclude word 'assistant' but title has a tech word
+6 | Partner Account Executive | Onsite | Cisco | score 2 below 4
+6 | Client Business Executive - CSS KSA | Onsite | Ericsson | score 2 below 4
 6 | General Manager – Consumer Electronics … | Onsite | AWS Investment Grou… | score 2 below 4
-6 | General Manager- FMCG | Onsite | AWS Investment Grou… | score 2 below 4
-6 | Sr. Technical Account Manager, Enterpri… | Onsite | Amazon Web Services… | score 2 below 4
-6 | Wireless Store Manager | Onsite | The Mobile Shop | exclude word 'store' but title has a tech word
-6 | HR Managed Services Transformation Dire… | Remote | TriNet USA, Inc. | exclude word 'hr' but title has a tech word
 
 DROPPED SAMPLES (to check nothing good is lost)
-- missing role: 126 total; examples:
-    Client Consulting Analyst | Onsite | Visa | missing role keyword
-    Facilities Supervisor | Onsite | Corning | missing role keyword
-    Security Supervisor | Onsite | Montage Internation… | missing role keyword
-    Contract and Billing Specialist - USA | Remote | Samsara | missing role keyword
-    AVP, Global Technology and Solutions, S… | Onsite | TD | missing role keyword
-    Senior Cybersecurity Specialist - Saudi… | Onsite | Egis Group | missing role keyword
-- seniority: 31 total; examples:
+- missing role: 122 total; examples:
+    Guest Relations Agent (Preferably Russi… | Onsite | Fairmont | missing role keyword
+    -Community Order Support (COS) Officer … | Onsite | V2X | missing role keyword
+    Senior Technical Marketing, and Applica… | Onsite | Movandi | missing role keyword
+    مهندس رئيسي- تنفيذ الطرق | Onsite | The Roads and Trans… | missing role keyword
+    Principal-Platform Engineering | Onsite | Elm Company | missing role keyword
+    Recreation Coordinator (Sports, Fee Cla… | Onsite | City of Hercules | missing role keyword
+- seniority: 39 total; examples:
+    Incident Management Engineer - Bilingua… | Onsite | Amazon Web Services… | no seniority word i…
     Operations Controller | Onsite | Riyadh Air | no seniority word i…
-    Traffic Operations Center (TOC) Supervi… | Onsite | AtkinsRéalis | no seniority word i…
+    Vendor Management PM, Vendor Management… | Onsite | Amazon.com | no seniority word i…
     Global Security Operations Centre Super… | Onsite | International SOS | no seniority word i…
-    Academy Scheduling & Program Operations | Onsite | Merrithew | no seniority word i…
-    Provider Operations Specialist | Hybrid | Maple | no seniority word i…
-    Sr. Mgr, Business Operations Mgmt | Hybrid | Lam Research | no seniority word i…
-- exclude word: 75 total; examples:
-    Customer Service Team Leader | Onsite | Aggreko | exclude word: custo…
-    Sales Manager (Energy Management) | Onsite | Al-Futtaim | exclude word: sales
-    VP, Construction & ETO | Onsite | Appficiency Inc. | exclude word: const…
-    Xfinity Retail Store Manager | Onsite | Comcast | exclude word: store
+    Client Delivery Partner (CDP) - Oil & G… | Onsite | Microsoft | no seniority word i…
+    Hard FM & General Services - Project-In… | Onsite | Qureos | no seniority word i…
+- exclude word: 83 total; examples:
+    Cabana Bar & The Shack - Pool & Beach A… | Onsite | Rosewood Hotel Group | exclude word: assis…
+    Area Director of Sales and Marketing | Onsite | The Loren Hotel Aus… | exclude word: sales
+    Operations Manager - Cafe/ Food | Retai… | Onsite | Al Futtaim Group | exclude word: retail
     Head of Pre-Sales | Onsite | Al-Futtaim | exclude word: sales
-    Operations Manager (Food Operations) | Onsite | Snoonu | exclude word: food
-- score 0: 158 total; examples:
-    FX Production Support Lead  - Vice Pres… | Hybrid | Citi | score 0: no role or…
-    Director, Capital Markets Operational R… | Onsite | RBC | score 0: no role or…
-    SA-Manager | Onsite | Apple | score 0: no role or…
-    Admin Executive | Onsite | Metromac Marine Aut… | score 0: no role or…
-    Head of Product | Onsite | Splash Software | score 0: no role or…
-    Senior Director, Business Enablement, T… | Onsite | BMO | score 0: no role or…
+    Business Development Executive – Recrui… | Onsite | Qureos | exclude word: recru…
+    Head of Sales | Remote | Martin & Company | exclude word: sales
+- score 0: 166 total; examples:
+    Associate Director - Managed Care - Hea… | Onsite | Guidehouse | score 0: no role or…
+    ADMIN ASST/DIRECTOR CAN 12 month contra… | Hybrid | Home Depot Canada | score 0: no role or…
+    Director, Client Support and Enablement | Onsite | Vantage | score 0: no role or…
+    Manager, Operational Technology Infra-S… | Onsite | Maaden | score 0: no role or…
+    Head of Building Services – Design | Onsite | WSP | score 0: no role or…
+    Senior Commercial Manager | Onsite | AtkinsRéalis | score 0: no role or…
